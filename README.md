@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/Mansyur0523/makefun-btc-race-18nov/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/Mansyur0523/makefun-btc-race-18nov/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard)
+
 # BTC Race Bot — Momentum 60-bar (cbBTC/USDC)
 
 A trading bot for the make.fun `btc-race-24h-20261118-1444` competition.
